@@ -1,1 +1,2 @@
-aa
+PASSWORDS = {'email': 'aaaaaa',
+			'git': 'bbbb'}
